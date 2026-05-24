@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "c1ylYTWa3Nk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shrish kerur\\Desktop\\resource-monitor\\resource-monitor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\hardware.info\\110.0.0.1\\hardware.info.110.0.0.1.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\hardware.info.core\\110.0.0.1\\hardware.info.core.110.0.0.1.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.8\\microsoft.extensions.configuration.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.8\\microsoft.extensions.configuration.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.8\\microsoft.extensions.configuration.binder.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.8\\microsoft.extensions.configuration.fileextensions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.8\\microsoft.extensions.configuration.json.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.8\\microsoft.extensions.dependencyinjection.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.8\\microsoft.extensions.fileproviders.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.8\\microsoft.extensions.fileproviders.physical.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.8\\microsoft.extensions.filesystemglobbing.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.8\\microsoft.extensions.primitives.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.8\\system.configuration.configurationmanager.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.8\\system.diagnostics.eventlog.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.8\\system.diagnostics.performancecounter.10.0.8.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrish kerur\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.8\\system.security.cryptography.protecteddata.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
