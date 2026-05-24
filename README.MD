@@ -20,7 +20,7 @@ Make sure you have the [.NET 10 SDK](https://dotnet.microsoft.com/download) inst
 # 1. Clone the Project
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/theshrish46/resource-monitor
 cd resource-monitor
 ```
 
