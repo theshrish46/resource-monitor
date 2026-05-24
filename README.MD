@@ -11,13 +11,13 @@ This project was created to practice:
 
 ---
 
-# 🚀 Getting Started
+# Getting Started
 
 Make sure you have the [.NET 10 SDK](https://dotnet.microsoft.com/download) installed.
 
 ---
 
-# 1. Clone the Project
+### 1. Clone the Project
 
 ```bash
 git clone https://github.com/theshrish46/resource-monitor
@@ -26,7 +26,7 @@ cd resource-monitor
 
 ---
 
-# 2. Configure Settings
+### 2. Configure Settings
 
 Open the `appsettings.json` file and update the values if needed.
 
@@ -44,7 +44,7 @@ Open the `appsettings.json` file and update the values if needed.
 
 ---
 
-# 3. Run the Application
+### 3. Run the Application
 
 ```bash
 dotnet restore
@@ -56,7 +56,7 @@ Press `Ctrl + C` anytime to stop the application.
 
 ---
 
-# 📊 Features
+### Features
 
 - Monitor CPU usage
 - Monitor RAM usage
@@ -67,7 +67,7 @@ Press `Ctrl + C` anytime to stop the application.
 
 ---
 
-# 🛠️ Project Structure
+### Project Structure
 
 ```text
 resource-monitor/
@@ -93,7 +93,7 @@ resource-monitor/
 
 ---
 
-# 📁 Logging
+### Logging
 
 The application automatically creates a `Logs` folder and stores monitoring data inside log files.
 
@@ -105,7 +105,7 @@ Logs/metrics_2026-05-24.log
 
 ---
 
-# 🌐 API Payload Example
+### API Payload Example
 
 The application sends monitoring data in JSON format.
 
@@ -119,7 +119,7 @@ The application sends monitoring data in JSON format.
 
 ---
 
-# ⚙️ How It Works
+### How It Works
 
 1. The application starts a background monitoring loop.
 2. System resource information is collected based on the interval specified.
@@ -129,7 +129,7 @@ The application sends monitoring data in JSON format.
 
 ---
 
-# 📚 Concepts Used
+### Concepts Used
 
 This project helped in learning:
 
@@ -144,7 +144,7 @@ This project helped in learning:
 
 ---
 
-# ✅ Notes
+# Notes
 
 - Built using `.NET 10`
 - Designed as a beginner-friendly system monitoring project
